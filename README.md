@@ -8,4 +8,5 @@ Director: Adrián Cabedo Nebot
 Universitat de València
 
 Este repositorio contiene:
+* Script de modificación de pitch y duración.
 * 

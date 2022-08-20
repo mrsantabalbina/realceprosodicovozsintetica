@@ -9,4 +9,4 @@ Universitat de València
 
 Este repositorio contiene:
 * Script de modificación de pitch y duración.
-* 
+* Muestras de audios utilizadas en los experimentos.

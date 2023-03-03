@@ -1,0 +1,1 @@
+Formato utilizado para subir los datos a Kibana y generar las gráficas utilizadas en la sección de Resultados.
